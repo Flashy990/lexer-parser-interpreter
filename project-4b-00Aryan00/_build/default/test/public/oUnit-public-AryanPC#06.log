@@ -1,0 +1,9 @@
+2023-04-25T20:26:10+00:00 AryanPC#06 I: Start test public:5:public_expr_double_fun.
+2023-04-25T20:26:10+00:00 AryanPC#06 I: Test public:5:public_expr_double_fun is successful.
+2023-04-25T20:26:10+00:00 AryanPC#06 I: End test public:5:public_expr_double_fun.
+2023-04-25T20:26:10+00:00 AryanPC#06 I: Start test public:13:public_expr_simple_mult.
+2023-04-25T20:26:10+00:00 AryanPC#06 I: Test public:13:public_expr_simple_mult is successful.
+2023-04-25T20:26:10+00:00 AryanPC#06 I: End test public:13:public_expr_simple_mult.
+2023-04-25T20:26:10+00:00 AryanPC#06 I: Start test public:24:public_expr_single_or.
+2023-04-25T20:26:10+00:00 AryanPC#06 I: Test public:24:public_expr_single_or is successful.
+2023-04-25T20:26:10+00:00 AryanPC#06 I: End test public:24:public_expr_single_or.
