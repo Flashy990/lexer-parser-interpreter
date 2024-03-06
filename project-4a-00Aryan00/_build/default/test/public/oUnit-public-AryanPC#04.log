@@ -1,0 +1,12 @@
+2023-04-20T23:12:25+00:00 AryanPC#04 I: Start test public:3:public_expr_add1.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: Test public:3:public_expr_add1 is successful.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: End test public:3:public_expr_add1.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: Start test public:11:public_rec_function_factorial.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: Test public:11:public_rec_function_factorial is successful.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: End test public:11:public_rec_function_factorial.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: Start test public:16:public_expr_simple_sub.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: Test public:16:public_expr_simple_sub is successful.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: End test public:16:public_expr_simple_sub.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: Start test public:26:public_expr_single_or.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: Test public:26:public_expr_single_or is successful.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: End test public:26:public_expr_single_or.

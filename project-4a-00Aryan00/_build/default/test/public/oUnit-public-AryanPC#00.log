@@ -1,0 +1,255 @@
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Runner: processes
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Chooser: simple
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration suite_name = "public"
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration cache_filename = "/home/akakadia/project-4a-00Aryan00/_build/default/test/public/oUnit-$(suite_name).cache"
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration run_gc_full_major = "true"
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration display = "true"
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration results_style_1_X = "false"
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration testdata_dir = "none"
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration health_check_interval = "1."
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration verbose = "false"
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration chooser = "simple"
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration output_html_dir = "none"
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration processes_kill_period = "5."
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration runner = "processes"
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration shards = "8"
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration processes_grace_period = "5."
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration log_encoding = "utf-8"
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration output_junit_file = "none"
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration ci = "false"
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Configuration output_file = "/home/akakadia/project-4a-00Aryan00/_build/default/test/public/oUnit-$(suite_name)-$(shard_id).log"
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Using 8 workers maximum.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Starting worker number AryanPC#01.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Worker AryanPC#01 started.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Starting worker number AryanPC#02.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Worker AryanPC#02 started.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Starting worker number AryanPC#03.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Worker AryanPC#03 started.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Starting worker number AryanPC#04.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Worker AryanPC#04 started.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Starting worker number AryanPC#05.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Worker AryanPC#05 started.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Starting worker number AryanPC#06.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Worker AryanPC#06 started.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Starting worker number AryanPC#07.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Worker AryanPC#07 started.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Starting worker number AryanPC#08.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Worker AryanPC#08 started.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun, public:4:public_expr_apply, public:3:public_expr_add1, public:2:public_mutop_simple_def_and_let, public:1:public_mutop_pi_def, public:0:public_nothing.
+2023-04-20T23:12:25+00:00 AryanPC#01 I: Start test public:0:public_nothing.
+2023-04-20T23:12:25+00:00 AryanPC#02 I: Start test public:1:public_mutop_pi_def.
+2023-04-20T23:12:25+00:00 AryanPC#03 I: Start test public:2:public_mutop_simple_def_and_let.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: Start test public:3:public_expr_add1.
+2023-04-20T23:12:25+00:00 AryanPC#05 I: Start test public:4:public_expr_apply.
+2023-04-20T23:12:25+00:00 AryanPC#06 I: Start test public:5:public_expr_double_fun.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun, public:4:public_expr_apply, public:3:public_expr_add1, public:2:public_mutop_simple_def_and_let, public:1:public_mutop_pi_def, public:0:public_nothing.
+2023-04-20T23:12:25+00:00 AryanPC#01 I: Test public:0:public_nothing is successful.
+2023-04-20T23:12:25+00:00 AryanPC#02 I: Test public:1:public_mutop_pi_def is successful.
+2023-04-20T23:12:25+00:00 AryanPC#07 I: Start test public:6:public_expr_let_if.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun, public:4:public_expr_apply, public:3:public_expr_add1, public:2:public_mutop_simple_def_and_let, public:1:public_mutop_pi_def, public:0:public_nothing.
+2023-04-20T23:12:25+00:00 AryanPC#01 I: End test public:0:public_nothing.
+2023-04-20T23:12:25+00:00 AryanPC#02 I: End test public:1:public_mutop_pi_def.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun, public:4:public_expr_apply, public:3:public_expr_add1, public:2:public_mutop_simple_def_and_let, public:1:public_mutop_pi_def, public:0:public_nothing.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:9:public_expr_nested_let, public:8:public_expr_minus_one, public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun, public:4:public_expr_apply, public:3:public_expr_add1, public:2:public_mutop_simple_def_and_let.
+2023-04-20T23:12:25+00:00 AryanPC#08 I: Start test public:7:public_expr_let_fun.
+2023-04-20T23:12:25+00:00 AryanPC#02 I: Start test public:8:public_expr_minus_one.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:9:public_expr_nested_let, public:8:public_expr_minus_one, public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun, public:4:public_expr_apply, public:3:public_expr_add1, public:2:public_mutop_simple_def_and_let.
+2023-04-20T23:12:25+00:00 AryanPC#03 I: Test public:2:public_mutop_simple_def_and_let is successful.
+2023-04-20T23:12:25+00:00 AryanPC#01 I: Start test public:9:public_expr_nested_let.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:9:public_expr_nested_let, public:8:public_expr_minus_one, public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun, public:4:public_expr_apply, public:3:public_expr_add1, public:2:public_mutop_simple_def_and_let.
+2023-04-20T23:12:25+00:00 AryanPC#03 I: End test public:2:public_mutop_simple_def_and_let.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:9:public_expr_nested_let, public:8:public_expr_minus_one, public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun, public:4:public_expr_apply, public:3:public_expr_add1, public:2:public_mutop_simple_def_and_let.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:10:public_expr_sub1, public:9:public_expr_nested_let, public:8:public_expr_minus_one, public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun, public:4:public_expr_apply, public:3:public_expr_add1.
+2023-04-20T23:12:25+00:00 AryanPC#03 I: Start test public:10:public_expr_sub1.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:10:public_expr_sub1, public:9:public_expr_nested_let, public:8:public_expr_minus_one, public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun, public:4:public_expr_apply, public:3:public_expr_add1.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: Test public:3:public_expr_add1 is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:10:public_expr_sub1, public:9:public_expr_nested_let, public:8:public_expr_minus_one, public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun, public:4:public_expr_apply, public:3:public_expr_add1.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: End test public:3:public_expr_add1.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:10:public_expr_sub1, public:9:public_expr_nested_let, public:8:public_expr_minus_one, public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun, public:4:public_expr_apply, public:3:public_expr_add1.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:11:public_rec_function_factorial, public:10:public_expr_sub1, public:9:public_expr_nested_let, public:8:public_expr_minus_one, public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun, public:4:public_expr_apply.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: Start test public:11:public_rec_function_factorial.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:11:public_rec_function_factorial, public:10:public_expr_sub1, public:9:public_expr_nested_let, public:8:public_expr_minus_one, public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun, public:4:public_expr_apply.
+2023-04-20T23:12:25+00:00 AryanPC#05 I: Test public:4:public_expr_apply is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:11:public_rec_function_factorial, public:10:public_expr_sub1, public:9:public_expr_nested_let, public:8:public_expr_minus_one, public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun, public:4:public_expr_apply.
+2023-04-20T23:12:25+00:00 AryanPC#05 I: End test public:4:public_expr_apply.
+2023-04-20T23:12:25+00:00 AryanPC#02 I: Test public:8:public_expr_minus_one is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:11:public_rec_function_factorial, public:10:public_expr_sub1, public:9:public_expr_nested_let, public:8:public_expr_minus_one, public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun, public:4:public_expr_apply.
+2023-04-20T23:12:25+00:00 AryanPC#02 I: End test public:8:public_expr_minus_one.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:12:public_expr_simple_equal, public:11:public_rec_function_factorial, public:10:public_expr_sub1, public:9:public_expr_nested_let, public:8:public_expr_minus_one, public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun.
+2023-04-20T23:12:25+00:00 AryanPC#06 I: Test public:5:public_expr_double_fun is successful.
+2023-04-20T23:12:25+00:00 AryanPC#05 I: Start test public:12:public_expr_simple_equal.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:13:public_expr_simple_concat, public:12:public_expr_simple_equal, public:11:public_rec_function_factorial, public:10:public_expr_sub1, public:9:public_expr_nested_let, public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun.
+2023-04-20T23:12:25+00:00 AryanPC#06 I: End test public:5:public_expr_double_fun.
+2023-04-20T23:12:25+00:00 AryanPC#02 I: Start test public:13:public_expr_simple_concat.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:13:public_expr_simple_concat, public:12:public_expr_simple_equal, public:11:public_rec_function_factorial, public:10:public_expr_sub1, public:9:public_expr_nested_let, public:7:public_expr_let_fun, public:6:public_expr_let_if, public:5:public_expr_double_fun.
+2023-04-20T23:12:25+00:00 AryanPC#03 I: Test public:10:public_expr_sub1 is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:14:public_expr_simple_div, public:13:public_expr_simple_concat, public:12:public_expr_simple_equal, public:11:public_rec_function_factorial, public:10:public_expr_sub1, public:9:public_expr_nested_let, public:7:public_expr_let_fun, public:6:public_expr_let_if.
+2023-04-20T23:12:25+00:00 AryanPC#03 I: End test public:10:public_expr_sub1.
+2023-04-20T23:12:25+00:00 AryanPC#06 I: Start test public:14:public_expr_simple_div.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:14:public_expr_simple_div, public:13:public_expr_simple_concat, public:12:public_expr_simple_equal, public:11:public_rec_function_factorial, public:10:public_expr_sub1, public:9:public_expr_nested_let, public:7:public_expr_let_fun, public:6:public_expr_let_if.
+2023-04-20T23:12:25+00:00 AryanPC#07 I: Test public:6:public_expr_let_if is successful.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: Test public:11:public_rec_function_factorial is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:15:public_expr_simple_mult, public:14:public_expr_simple_div, public:13:public_expr_simple_concat, public:12:public_expr_simple_equal, public:11:public_rec_function_factorial, public:9:public_expr_nested_let, public:7:public_expr_let_fun, public:6:public_expr_let_if.
+2023-04-20T23:12:25+00:00 AryanPC#07 I: End test public:6:public_expr_let_if.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: End test public:11:public_rec_function_factorial.
+2023-04-20T23:12:25+00:00 AryanPC#03 I: Start test public:15:public_expr_simple_mult.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:15:public_expr_simple_mult, public:14:public_expr_simple_div, public:13:public_expr_simple_concat, public:12:public_expr_simple_equal, public:11:public_rec_function_factorial, public:9:public_expr_nested_let, public:7:public_expr_let_fun, public:6:public_expr_let_if.
+2023-04-20T23:12:25+00:00 AryanPC#01 I: Test public:9:public_expr_nested_let is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:17:public_expr_simple_sum, public:16:public_expr_simple_sub, public:15:public_expr_simple_mult, public:14:public_expr_simple_div, public:13:public_expr_simple_concat, public:12:public_expr_simple_equal, public:9:public_expr_nested_let, public:7:public_expr_let_fun.
+2023-04-20T23:12:25+00:00 AryanPC#01 I: End test public:9:public_expr_nested_let.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: Start test public:16:public_expr_simple_sub.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:17:public_expr_simple_sum, public:16:public_expr_simple_sub, public:15:public_expr_simple_mult, public:14:public_expr_simple_div, public:13:public_expr_simple_concat, public:12:public_expr_simple_equal, public:9:public_expr_nested_let, public:7:public_expr_let_fun.
+2023-04-20T23:12:25+00:00 AryanPC#08 I: Test public:7:public_expr_let_fun is successful.
+2023-04-20T23:12:25+00:00 AryanPC#07 I: Start test public:17:public_expr_simple_sum.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:18:public_expr_single_and, public:17:public_expr_simple_sum, public:16:public_expr_simple_sub, public:15:public_expr_simple_mult, public:14:public_expr_simple_div, public:13:public_expr_simple_concat, public:12:public_expr_simple_equal, public:7:public_expr_let_fun.
+2023-04-20T23:12:25+00:00 AryanPC#08 I: End test public:7:public_expr_let_fun.
+2023-04-20T23:12:25+00:00 AryanPC#05 I: Test public:12:public_expr_simple_equal is successful.
+2023-04-20T23:12:25+00:00 AryanPC#02 I: Test public:13:public_expr_simple_concat is successful.
+2023-04-20T23:12:25+00:00 AryanPC#01 I: Start test public:18:public_expr_single_and.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:18:public_expr_single_and, public:17:public_expr_simple_sum, public:16:public_expr_simple_sub, public:15:public_expr_simple_mult, public:14:public_expr_simple_div, public:13:public_expr_simple_concat, public:12:public_expr_simple_equal, public:7:public_expr_let_fun.
+2023-04-20T23:12:25+00:00 AryanPC#05 I: End test public:12:public_expr_simple_equal.
+2023-04-20T23:12:25+00:00 AryanPC#02 I: End test public:13:public_expr_simple_concat.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:19:public_expr_single_bool, public:18:public_expr_single_and, public:17:public_expr_simple_sum, public:16:public_expr_simple_sub, public:15:public_expr_simple_mult, public:14:public_expr_simple_div, public:13:public_expr_simple_concat, public:12:public_expr_simple_equal.
+2023-04-20T23:12:25+00:00 AryanPC#08 I: Start test public:19:public_expr_single_bool.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:21:public_expr_single_if, public:20:public_expr_single_fun, public:19:public_expr_single_bool, public:18:public_expr_single_and, public:17:public_expr_simple_sum, public:16:public_expr_simple_sub, public:15:public_expr_simple_mult, public:14:public_expr_simple_div.
+2023-04-20T23:12:25+00:00 AryanPC#06 I: Test public:14:public_expr_simple_div is successful.
+2023-04-20T23:12:25+00:00 AryanPC#02 I: Start test public:20:public_expr_single_fun.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:21:public_expr_single_if, public:20:public_expr_single_fun, public:19:public_expr_single_bool, public:18:public_expr_single_and, public:17:public_expr_simple_sum, public:16:public_expr_simple_sub, public:15:public_expr_simple_mult, public:14:public_expr_simple_div.
+2023-04-20T23:12:25+00:00 AryanPC#06 I: End test public:14:public_expr_simple_div.
+2023-04-20T23:12:25+00:00 AryanPC#03 I: Test public:15:public_expr_simple_mult is successful.
+2023-04-20T23:12:25+00:00 AryanPC#05 I: Start test public:21:public_expr_single_if.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:21:public_expr_single_if, public:20:public_expr_single_fun, public:19:public_expr_single_bool, public:18:public_expr_single_and, public:17:public_expr_simple_sum, public:16:public_expr_simple_sub, public:15:public_expr_simple_mult, public:14:public_expr_simple_div.
+2023-04-20T23:12:25+00:00 AryanPC#03 I: End test public:15:public_expr_simple_mult.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:22:public_expr_single_let, public:21:public_expr_single_if, public:20:public_expr_single_fun, public:19:public_expr_single_bool, public:18:public_expr_single_and, public:17:public_expr_simple_sum, public:16:public_expr_simple_sub, public:15:public_expr_simple_mult.
+2023-04-20T23:12:25+00:00 AryanPC#06 I: Start test public:22:public_expr_single_let.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:23:public_expr_single_notequal, public:22:public_expr_single_let, public:21:public_expr_single_if, public:20:public_expr_single_fun, public:19:public_expr_single_bool, public:18:public_expr_single_and, public:17:public_expr_simple_sum, public:16:public_expr_simple_sub.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: Test public:16:public_expr_simple_sub is successful.
+2023-04-20T23:12:25+00:00 AryanPC#07 I: Test public:17:public_expr_simple_sum is successful.
+2023-04-20T23:12:25+00:00 AryanPC#01 I: Test public:18:public_expr_single_and is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:23:public_expr_single_notequal, public:22:public_expr_single_let, public:21:public_expr_single_if, public:20:public_expr_single_fun, public:19:public_expr_single_bool, public:18:public_expr_single_and, public:17:public_expr_simple_sum, public:16:public_expr_simple_sub.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: End test public:16:public_expr_simple_sub.
+2023-04-20T23:12:25+00:00 AryanPC#07 I: End test public:17:public_expr_simple_sum.
+2023-04-20T23:12:25+00:00 AryanPC#01 I: End test public:18:public_expr_single_and.
+2023-04-20T23:12:25+00:00 AryanPC#03 I: Start test public:23:public_expr_single_notequal.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:23:public_expr_single_notequal, public:22:public_expr_single_let, public:21:public_expr_single_if, public:20:public_expr_single_fun, public:19:public_expr_single_bool, public:18:public_expr_single_and, public:17:public_expr_simple_sum, public:16:public_expr_simple_sub.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:26:public_expr_single_or, public:25:public_expr_single_number, public:24:public_expr_single_not, public:23:public_expr_single_notequal, public:22:public_expr_single_let, public:21:public_expr_single_if, public:20:public_expr_single_fun, public:19:public_expr_single_bool.
+2023-04-20T23:12:25+00:00 AryanPC#01 I: Start test public:24:public_expr_single_not.
+2023-04-20T23:12:25+00:00 AryanPC#07 I: Start test public:25:public_expr_single_number.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: Start test public:26:public_expr_single_or.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:26:public_expr_single_or, public:25:public_expr_single_number, public:24:public_expr_single_not, public:23:public_expr_single_notequal, public:22:public_expr_single_let, public:21:public_expr_single_if, public:20:public_expr_single_fun, public:19:public_expr_single_bool.
+2023-04-20T23:12:25+00:00 AryanPC#02 I: Test public:20:public_expr_single_fun is successful.
+2023-04-20T23:12:25+00:00 AryanPC#05 I: Test public:21:public_expr_single_if is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:26:public_expr_single_or, public:25:public_expr_single_number, public:24:public_expr_single_not, public:23:public_expr_single_notequal, public:22:public_expr_single_let, public:21:public_expr_single_if, public:20:public_expr_single_fun, public:19:public_expr_single_bool.
+2023-04-20T23:12:25+00:00 AryanPC#08 I: Test public:19:public_expr_single_bool is successful.
+2023-04-20T23:12:25+00:00 AryanPC#02 I: End test public:20:public_expr_single_fun.
+2023-04-20T23:12:25+00:00 AryanPC#05 I: End test public:21:public_expr_single_if.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:26:public_expr_single_or, public:25:public_expr_single_number, public:24:public_expr_single_not, public:23:public_expr_single_notequal, public:22:public_expr_single_let, public:21:public_expr_single_if, public:20:public_expr_single_fun, public:19:public_expr_single_bool.
+2023-04-20T23:12:25+00:00 AryanPC#08 I: End test public:19:public_expr_single_bool.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:26:public_expr_single_or, public:25:public_expr_single_number, public:24:public_expr_single_not, public:23:public_expr_single_notequal, public:22:public_expr_single_let, public:19:public_expr_single_bool.
+2023-04-20T23:12:25+00:00 AryanPC#05 I: Start test public:27:public_expr_single_string.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Still 8 tests running : public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:26:public_expr_single_or, public:25:public_expr_single_number, public:24:public_expr_single_not, public:23:public_expr_single_notequal, public:22:public_expr_single_let.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:26:public_expr_single_or, public:25:public_expr_single_number, public:24:public_expr_single_not, public:23:public_expr_single_notequal, public:22:public_expr_single_let.
+2023-04-20T23:12:25+00:00 AryanPC#02 I: Start test public:28:public_err_def_not_top_level.
+2023-04-20T23:12:25+00:00 AryanPC#08 I: Start test public:29:public_err_mutop_nested_def.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Still 8 tests running : public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:26:public_expr_single_or, public:25:public_expr_single_number, public:24:public_expr_single_not, public:23:public_expr_single_notequal, public:22:public_expr_single_let.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:26:public_expr_single_or, public:25:public_expr_single_number, public:24:public_expr_single_not, public:23:public_expr_single_notequal, public:22:public_expr_single_let.
+2023-04-20T23:12:25+00:00 AryanPC#06 I: Test public:22:public_expr_single_let is successful.
+2023-04-20T23:12:25+00:00 AryanPC#03 I: Test public:23:public_expr_single_notequal is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Still 8 tests running : public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:26:public_expr_single_or, public:25:public_expr_single_number, public:24:public_expr_single_not, public:23:public_expr_single_notequal, public:22:public_expr_single_let.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:26:public_expr_single_or, public:25:public_expr_single_number, public:24:public_expr_single_not, public:23:public_expr_single_notequal, public:22:public_expr_single_let.
+2023-04-20T23:12:25+00:00 AryanPC#06 I: End test public:22:public_expr_single_let.
+2023-04-20T23:12:25+00:00 AryanPC#03 I: End test public:23:public_expr_single_notequal.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: Test public:26:public_expr_single_or is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Still 8 tests running : public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:26:public_expr_single_or, public:25:public_expr_single_number, public:24:public_expr_single_not, public:23:public_expr_single_notequal, public:22:public_expr_single_let.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 8 tests running: public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:26:public_expr_single_or, public:25:public_expr_single_number, public:24:public_expr_single_not, public:23:public_expr_single_notequal, public:22:public_expr_single_let.
+2023-04-20T23:12:25+00:00 AryanPC#01 I: Test public:24:public_expr_single_not is successful.
+2023-04-20T23:12:25+00:00 AryanPC#04 I: End test public:26:public_expr_single_or.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Still 6 tests running : public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:26:public_expr_single_or, public:25:public_expr_single_number, public:24:public_expr_single_not.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 6 tests running: public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:26:public_expr_single_or, public:25:public_expr_single_number, public:24:public_expr_single_not.
+2023-04-20T23:12:25+00:00 AryanPC#01 I: End test public:24:public_expr_single_not.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Still 5 tests running : public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:25:public_expr_single_number, public:24:public_expr_single_not.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 5 tests running: public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:25:public_expr_single_number, public:24:public_expr_single_not.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Still 4 tests running : public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:25:public_expr_single_number.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 4 tests running: public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:25:public_expr_single_number.
+2023-04-20T23:12:25+00:00 AryanPC#05 I: Test public:27:public_expr_single_string is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Still 4 tests running : public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:25:public_expr_single_number.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 4 tests running: public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:25:public_expr_single_number.
+2023-04-20T23:12:25+00:00 AryanPC#05 I: End test public:27:public_expr_single_string.
+2023-04-20T23:12:25+00:00 AryanPC#02 I: Test public:28:public_err_def_not_top_level is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Still 4 tests running : public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:25:public_expr_single_number.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 4 tests running: public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:27:public_expr_single_string, public:25:public_expr_single_number.
+2023-04-20T23:12:25+00:00 AryanPC#07 I: Test public:25:public_expr_single_number is successful.
+2023-04-20T23:12:25+00:00 AryanPC#02 I: End test public:28:public_err_def_not_top_level.
+2023-04-20T23:12:25+00:00 AryanPC#08 I: Test public:29:public_err_mutop_nested_def is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Still 3 tests running : public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:25:public_expr_single_number.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 3 tests running: public:29:public_err_mutop_nested_def, public:28:public_err_def_not_top_level, public:25:public_expr_single_number.
+2023-04-20T23:12:25+00:00 AryanPC#07 I: End test public:25:public_expr_single_number.
+2023-04-20T23:12:25+00:00 AryanPC#08 I: End test public:29:public_err_mutop_nested_def.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Still 2 tests running : public:29:public_err_mutop_nested_def, public:25:public_expr_single_number.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 2 tests running: public:29:public_err_mutop_nested_def, public:25:public_expr_single_number.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: 0 tests running: .
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Worker AryanPC#06 has ended.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Worker AryanPC#03 has ended.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Worker AryanPC#04 has ended.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Worker AryanPC#01 has ended.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Worker AryanPC#05 has ended.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Worker AryanPC#02 has ended.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Worker AryanPC#07 has ended.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Worker AryanPC#08 has ended.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Used 8 worker during test execution.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Run 4 tests with shard AryanPC#03.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Run 3 tests with shard AryanPC#08.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Run 3 tests with shard AryanPC#07.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Run 5 tests with shard AryanPC#02.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Run 3 tests with shard AryanPC#06.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Run 4 tests with shard AryanPC#01.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Run 4 tests with shard AryanPC#04.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Run 4 tests with shard AryanPC#05.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Check health of shard AryanPC#03, 8 times.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Check health of shard AryanPC#08, 1 times.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Check health of shard AryanPC#07, 1 times.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Check health of shard AryanPC#02, 2 times.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Check health of shard AryanPC#06, 8 times.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Check health of shard AryanPC#01, 6 times.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Check health of shard AryanPC#04, 7 times.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Check health of shard AryanPC#05, 3 times.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: ==============
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Summary:
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:29:public_err_mutop_nested_def is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:25:public_expr_single_number is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:28:public_err_def_not_top_level is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:27:public_expr_single_string is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:24:public_expr_single_not is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:26:public_expr_single_or is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:23:public_expr_single_notequal is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:22:public_expr_single_let is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:19:public_expr_single_bool is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:21:public_expr_single_if is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:20:public_expr_single_fun is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:18:public_expr_single_and is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:17:public_expr_simple_sum is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:16:public_expr_simple_sub is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:15:public_expr_simple_mult is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:14:public_expr_simple_div is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:13:public_expr_simple_concat is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:12:public_expr_simple_equal is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:7:public_expr_let_fun is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:9:public_expr_nested_let is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:11:public_rec_function_factorial is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:6:public_expr_let_if is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:10:public_expr_sub1 is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:5:public_expr_double_fun is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:8:public_expr_minus_one is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:4:public_expr_apply is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:3:public_expr_add1 is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:2:public_mutop_simple_def_and_let is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:1:public_mutop_pi_def is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Test public:0:public_nothing is successful.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Ran: 30 tests in: 0.10 seconds.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Cases: 30.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Tried: 30.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Errors: 0.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Failures: 0.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Skip: 0.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Todo: 0.
+2023-04-20T23:12:25+00:00 AryanPC#00 I: Timeout: 0.
